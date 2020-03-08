@@ -1,8 +1,7 @@
 module.exports = {
-  base: "/VuePressTest/",
-  title: "前端学习笔记",
-  description: "FrontEnd Study",
-  dest: "../../VuePressTest",
+  base: "/maolfBook/",
+  title: "maolf学习笔记",
+  description: "Study Book",
   themeConfig: {
     nav: [
       { text: "前端记录", link: "/frontEndRecord/" },
