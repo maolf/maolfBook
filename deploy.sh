@@ -1,10 +1,17 @@
+###
+ # @Author: maolf
+ # @Date: 2020-03-09 11:33:10
+ # @LastEditors: maolf
+ # @LastEditTime: 2020-03-09 16:56:53
+ # @Description: file content
+ ###
 #!/usr/bin/env sh
 
 # 确保脚本抛出遇到的错误
 set -e
 
 # 生成静态文件
-npm run docs:build
+yarn docs:build
 
 # 进入生成的文件夹
 cd docs/.vuepress/dist
