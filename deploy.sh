@@ -1,11 +1,4 @@
-###
- # @Author: maolf
- # @Date: 2020-03-09 11:33:10
- # @LastEditors: maolf
- # @LastEditTime: 2020-03-09 16:56:53
- # @Description: file content
- ###
-#!/usr/bin/env sh
+# !/usr/bin/env sh
 
 # 确保脚本抛出遇到的错误
 set -e
@@ -27,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:maolf/maolfBook.git master:gh-pages
+git push -f https://github.com/maolf/maolfBook.git master:gh-pages
 
 cd -
