@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /hero.png
-actionText: 快速学习 →
+actionText: 测试测试看看 →
 actionLink: /frontEndRecord/
 features:
   - title: 前端学习内容记录
