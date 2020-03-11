@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: /hero.JPG
 actionText: 是时候展现真正的技术了 →
 actionLink: /FrontEnd/
 features:
