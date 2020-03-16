@@ -1,5 +1,6 @@
 module.exports = {
- "/FrontEnd/": ["语法和API", "原型和原型链"],
+ "/FrontEnd/": ["HTML", "CSS", "JAVASCRIPT"],
  "/BackEnd/": [],
- "/WebGis/": ["BaseGis", "Arcgis", "OpenLayers"]
+ "/WebGis/": ["BASEGIS", "ARCGIS", "OPENLAYERS"],
+ "/Other/": ["HTTP", "DistributedCluster"]
 };
